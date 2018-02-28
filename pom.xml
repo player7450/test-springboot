@@ -18,6 +18,8 @@
 
     <modules>
         <module>springboot-start</module>
+        <module>hello-starter</module>
+        <module>hello-autoconfiguration</module>
     </modules>
 
     <properties>
